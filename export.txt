@@ -1,0 +1,23 @@
+Below is a list of dates and times with a film showing. The comma separated lines below are of the order: date, time, title, number of booked seats, number of available seats.
+Monday 14/01/19, 1pm, Gimme all your money, 40, 60
+Monday 14/01/19, 3pm, Lady Gaga Gath a Gadie Goodie Gadie Spectacular, 32, 68
+Tuesday 15/01/19, 2pm, Fire alarm testing, 71, 29
+Tuesday 15/01/19, 5pm, The floor is lava, 30, 70
+Tuesday 15/01/19, 10pm, Nicolas Cage, 52, 48
+Wednesday 16/01/19, 6pm, How to bathe, 60, 40
+Wednesday 16/01/19, 10pm, Meditation, 20, 80
+Thursday 17/01/19, 3pm, Lynda - What is it all for?, 92, 8
+Thursday 17/01/19, 9pm, Gimme all your money, 60, 40
+Friday 18/01/19, 1pm, Meditation, 48, 52
+Friday 18/01/19, 4pm, McHappyTimes, 60, 40
+Friday 18/01/19, 6pm, Penguin, 100, 0
+Saturday 19/01/19, 1pm, Nicolas Cage, 81, 19
+Saturday 19/01/19, 7pm, Meditation, 91, 9
+Saturday 19/01/19, 8pm, How to breathe, 90, 10
+Saturday 19/01/19, 10pm, Monsters Incredibles, 90, 10
+Sunday 20/01/19, 4pm, Sleepytimes, 72, 28
+Sunday 20/01/19, 10pm, Penguin, 90, 10
+Friday 18/01/19, 2pm, New Film, 2, 98
+Sunday 20/01/19, 9pm, Finaly, 1, 99
+Friday 18/01/19, 9pm, The Bee, 0, 100
+Tuesday 15/01/19, 6pm, ET, 0, 100
